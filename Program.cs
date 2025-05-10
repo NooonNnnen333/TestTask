@@ -86,6 +86,7 @@ class Control
         if (result != "")
         {
             Console.WriteLine("Сумма минимальных чисел массива: " + result);
+            Console.ReadKey();
         }
         else
         {
@@ -213,6 +214,11 @@ static class SummMinElements // Статический класс с метод�
 
     public static int sumMin(int[] array) // Метод для нахождения суммы минимальных цифр в массиве чисел типа int
     {
+        if(array.Length == 1)
+        {
+            Console.WriteLine("Был введен только один элемент. ");
+            return array[0];
+        }
         if (array.Length > 0)
         {
             int[] minsArray = {int.MaxValue, int.MaxValue}; // иницилизируем массив с двумя числами, которые м 
@@ -237,6 +243,7 @@ static class SummMinElements // Статический класс с метод�
 
 
         }
+
         
         Console.Error.WriteLine("В массиве нет символов");
         return 0;
@@ -244,6 +251,11 @@ static class SummMinElements // Статический класс с метод�
 
     public static double sumMin(double[] array) // Метод для нахождения суммы минимальных цифр в массиве чисел типа double
     {
+        if(array.Length == 1)
+        {
+            Console.WriteLine("Был введен только один элемент. ");
+            return array[0];
+        }
         if (array.Length > 0)
         {
             double[] minsArray = {double.MaxValue, double.MaxValue}; // иницилизируем массив с двумя числами, которые м 
@@ -268,6 +280,7 @@ static class SummMinElements // Статический класс с метод�
 
 
         }
+        
         
         Console.Error.WriteLine("В массиве нет символов");
         return 0;

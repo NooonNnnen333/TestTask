@@ -12,3 +12,4 @@
 /Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.pdb
 /Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.genruntimeconfig.cache
 /Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/ref/TestTask.dll
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.sourcelink.json
