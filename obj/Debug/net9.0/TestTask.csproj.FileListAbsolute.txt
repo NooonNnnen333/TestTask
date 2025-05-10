@@ -1,0 +1,14 @@
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/bin/Debug/net9.0/TestTask
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/bin/Debug/net9.0/TestTask.deps.json
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/bin/Debug/net9.0/TestTask.runtimeconfig.json
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/bin/Debug/net9.0/TestTask.dll
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/bin/Debug/net9.0/TestTask.pdb
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.AssemblyInfoInputs.cache
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.AssemblyInfo.cs
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.csproj.CoreCompileInputs.cache
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.dll
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/refint/TestTask.dll
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.pdb
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/TestTask.genruntimeconfig.cache
+/Users/egorvasilev/Documents/Институт/Теория_алгоритмов/Algpritms/TestTask/obj/Debug/net9.0/ref/TestTask.dll
